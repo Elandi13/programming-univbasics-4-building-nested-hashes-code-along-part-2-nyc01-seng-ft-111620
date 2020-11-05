@@ -48,11 +48,5 @@ def add_characters
       }
    }
 
-   epic_tragedy{:additonal_characters] = [{
-     name: "Prince Escalus"
-   }, {
-     name: "Apothecary"
-   }]
    
-   epic_tragedy
 end
